@@ -1,0 +1,6 @@
+function appendtodisplay() {
+
+}
+function resultado() {
+    
+}
