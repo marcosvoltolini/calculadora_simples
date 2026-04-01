@@ -16,14 +16,14 @@ header h1 {
     margin: 20px;
 }
 
-/* Calculadora */
+
 main {
     background-color: #fff;
     padding: 15px;
     border-radius: 10px;
 }
 
-/* Display */
+
 #display {
     width: 100%;
     height: 50px;
@@ -33,12 +33,12 @@ main {
     padding: 5px;
 }
 
-/* Botões */
+
 .botao {
     display: grid;
     grid-template-columns: repeat(4, 60px);
     gap: 8px;
-    margin-top: 15px; /* números mais pra baixo */
+    margin-top: 15px; 
 }
 
 button {
@@ -47,7 +47,10 @@ button {
     cursor: pointer;
 }
 
-/* Botão zero maior */
+
 .zero {
     grid-column: span 2;
+    
 }
+
+
